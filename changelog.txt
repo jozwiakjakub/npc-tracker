@@ -1,0 +1,26 @@
+02.08.2025
+<li>Dodano przycisk aktywne sesje</li>
+<li>Autowylogowywanie po 35min nieaktywności</li>
+<br></br>
+31.07.2025
+<li>Dodano historie dodawanych lokalizacji</li>
+<br></br>
+31.07.2025
+<li>Popupy są wyświetlane 35min od dodania zgłoszenia</li>
+<li>Popupy od teraz mają date zgłoszenia</li>
+<li>Zmienione czasy czerwony do 8min od kliknięcia pomarańczowy 35min</li>
+<li>Dodany 29 diler Kurier LS</li>
+<br></br>
+31.07.2025
+<li>Dodane zostały znaczniki stacji oraz możliwość oznaczania taniej beny</li>
+<br></br>
+30.07.2025
+<li>Od teraz lokalizacje moga przyjmować 3 kolory</li>
+<li>Czerowy 15 min od kliknięcia "nie ma"</li>
+<li>Zielony od znalezienia dilera 60min</li>
+<li>Pomarańczowy lokalizacja do sprawdzenia</li>
+<li>Dodano przycisk „Wyloguj” w interfejsie użytkownika.</li>
+<li>Dodano przycisk „Changelog” z informacjami o aktualizacjach.</li>
+<li>Wyłączono mechanizm autoryzacji oparty na adresie IP.</li>
+<li>Wprowadzono nowy sposób autoryzacji – weryfikacja polega teraz na sprawdzeniu, czy identyfikator SID jest aktualnie połączony z serwisem fivelife.pl.</li>
+<li>Od teraz scumerzy mogą przyjmować wartość 1500 i 1750</li>
